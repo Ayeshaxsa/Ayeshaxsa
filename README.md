@@ -50,9 +50,3 @@ I'm a curious and motivated **beginner developer** with hands-on experience in *
 - [ ] Create a GitHub repo to document my learning
 - [ ] Deploy something with GitHub Pages or Streamlit
 
----
-
-## 🚀 Let's Connect (add these later when you're ready)
-
-- [LinkedIn](www.linkedin.com/in/ayeshaxsa)
-
