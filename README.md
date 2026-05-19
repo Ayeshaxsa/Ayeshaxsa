@@ -9,4 +9,4 @@ I'm a curious and motivated **developer**. I'm especially passionate about **AI/
 ---
 
 Checkout my Portfolio:
-[Ayesha]([URL](https://ayshaxsa.github.io/Portfolio/))
+[Ayesha](https://ayshaxsa.github.io/Portfolio/)
